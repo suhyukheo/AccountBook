@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AccountBook/static/css/main.e44174a9.css",
+    "main.js": "/AccountBook/static/js/main.aeccf536.js",
+    "static/js/787.9093bd22.chunk.js": "/AccountBook/static/js/787.9093bd22.chunk.js",
+    "index.html": "/AccountBook/index.html",
+    "main.e44174a9.css.map": "/AccountBook/static/css/main.e44174a9.css.map",
+    "main.aeccf536.js.map": "/AccountBook/static/js/main.aeccf536.js.map",
+    "787.9093bd22.chunk.js.map": "/AccountBook/static/js/787.9093bd22.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e44174a9.css",
+    "static/js/main.aeccf536.js"
+  ]
+}
