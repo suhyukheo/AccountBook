@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/AccountBook/static/css/main.e44174a9.css",
+    "main.js": "/AccountBook/static/js/main.86005dcf.js",
+    "static/js/787.30be5028.chunk.js": "/AccountBook/static/js/787.30be5028.chunk.js",
+    "service-worker.js": "/AccountBook/service-worker.js",
+    "index.html": "/AccountBook/index.html",
+    "main.e44174a9.css.map": "/AccountBook/static/css/main.e44174a9.css.map",
+    "main.86005dcf.js.map": "/AccountBook/static/js/main.86005dcf.js.map",
+    "787.30be5028.chunk.js.map": "/AccountBook/static/js/787.30be5028.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e44174a9.css",
+    "static/js/main.86005dcf.js"
+  ]
+}
